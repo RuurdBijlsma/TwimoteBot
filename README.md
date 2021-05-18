@@ -8,6 +8,7 @@ Requirements:
 
 * Postgres
 * NodeJS + npm
+* FFMPEG in PATH
 
 Setup:
 
